@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou o Felipe Paz
 
-🚀 Engenheiro de Software em formação | Procuro resolver problemas através de código, pensamento e estratégia  
-🎯 Buscando excelência em engenharia de software, com foco em criar soluções práticas, eficientes e escaláveis
+🎓 Estudante de Engenharia de Software na PUC Minas  
+🚀 Apaixonado por desenvolvimento, algoritmos e boas práticas de código  
+🧠 Buscando construir soluções eficientes, escaláveis e bem projetadas  
+🔍 Curioso sobre como sistemas complexos são planejados, implementados e evoluídos  
+📈 Também estudo negócios, economia e gestão de produtos para unir tecnologia e estratégia  
 
 ---
 
@@ -19,11 +22,13 @@
 
 ## 📖 Estou estudando...
 
-- Algoritmos e Estrutura de Dados  
-- Programação Orientada a Objetos (C++)  
+- Algoritmos e Estruturas de Dados  
+- Programação Orientada a Objetos com C++  
+- Design Patterns e Clean Code  
+- Controle de Versão com Git  
 - Desenvolvimento Front-End  
-- Git e GitHub  
-- Inglês técnico e profissional
+- Engenharia de Requisitos e Testes Automatizados  
+- Inglês técnico e conversacional
 
 ---
 
