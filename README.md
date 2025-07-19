@@ -38,6 +38,15 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepazcb&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepazcb&layout=compact&theme=dracula" />
+</p>
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepazcb/)  
