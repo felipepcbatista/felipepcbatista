@@ -41,8 +41,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepazcb&show_icons=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepazcb&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=felipepcbatista&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepcbatista&layout=compact&theme=dracula" />
 </p>
 
 ---
